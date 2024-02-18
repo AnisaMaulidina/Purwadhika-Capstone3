@@ -1,2 +1,2 @@
 # Purwadhika-Capstone3
-Project ini dibuat untuk memprediksi rata-rata harga jual rumah di Calfiornia menggunakan data sensus harga rumah Tahun 1990. Dataset ini memiliki atribut seperti koordinat, total ruangan, total kamar, Pendapatan rata-rata, usia rata-rata bangunan dan sebagainya. 
+Pemodelan ini dibuat untuk membantu developer properti memprediksi dan menentukan rata-rata harga jual rumah di Calfiornia menggunakan data sensus harga rumah Tahun 1990. Dataset ini memiliki atribut seperti koordinat, total ruangan, total kamar, Pendapatan rata-rata, usia rata-rata bangunan dan sebagainya. Dengan pemodelan ini, diharapkan developer properti mampu membuat sebuah keputusan penentuan harga yang tepat sehingga nilai sebuah properti tidak underprice ataupun overprice
